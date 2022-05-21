@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper Yurtdaş</h1>
-<h3 align="center">I am a junior software developer who has studied C#, Angular and is currently learning.You know what they say, if you're a software developer, your studentship never ends. I take care to write code suitable for SOLID orders.</h3>
+<h3 align="center">I am a  Software Developer who has studied C#, Angular and is currently learning.You know what they say, if you're a software developer, your studentship never ends. I take care to write code suitable for SOLID orders.</h3>
 
 - 🔭 I’m currently working on [https://github.com/Alperyrtds/MvcOnlineCommercialAutomation](https://github.com/Alperyrtds/MvcOnlineCommercialAutomation)
 
